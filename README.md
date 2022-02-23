@@ -15,7 +15,7 @@
   ##
   <div>
   <a href = "mailto: gabrielajussana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-jussana-0011921b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielajussana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabrielajussana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/gabrielajussana" target="_blank"><img src="https://img.shields.io/badge/-Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
