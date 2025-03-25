@@ -1,18 +1,9 @@
 
 <h1  align="center"> ✨Welcome to my profile ! <h1>
  <div align="center">
-  
- ![gif](https://designculture.com.br/wp-content/uploads/2017/02/35ae65e72b11ce73f7bc4b758c7b6a48.gif)
-  
-</div>
  
- <div align="center">
-  <a href = "mailto: gabrielajussana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielajussana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/gabrielajussana" target="_blank"><img src="https://img.shields.io/badge/-Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
-<br>
- 
+
  <div align="center">
   <a href="https://github.com/gabrielajussana">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielajussana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
