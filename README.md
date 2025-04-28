@@ -1,6 +1,4 @@
-## Gabriela Jussana
 ### Desenvolvedora Front-end | Especialista em Testes
-
 ---
 
 ### Sobre mim:
