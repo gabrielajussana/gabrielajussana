@@ -1,5 +1,5 @@
 ### Desenvolvedora Front-end | Especialista em Testes
----
+##
 
 ### Sobre mim:
 
@@ -19,7 +19,7 @@
   </a>
 </div>
 
----
+##
 
 ###  Tecnologias:
 
@@ -38,7 +38,9 @@
   </p>
 </div>
 
-### 📈 GitHub Stats
+##
+
+###  GitHub Stats:
 
 <div align="center">
   <a href="https://github.com/gabrielajussana">
@@ -46,3 +48,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajussana&layout=compact&langs_count=7&theme=tokyonight" alt="Gabriela Top Languages"/>
   </a>
 </div>
+
+  ##
+ ![Snake animation](https://github.com/gabrielajussana/gabrielajussana/blob/output/github-contribution-grid-snake.svg)
+  
