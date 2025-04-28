@@ -45,8 +45,8 @@
 
 <div align="center">
   <a href="https://github.com/gabrielajussana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielajussana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Gabriela GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajussana&layout=compact&langs_count=7&theme=tokyonight" alt="Gabriela Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielajussana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Gabriela GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajussana&layout=compact&langs_count=7&theme=onedark" alt="Gabriela Top Languages"/>
   </a>
 </div>
 
