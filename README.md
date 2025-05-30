@@ -6,7 +6,7 @@
 - 🎓 Formada em Ciência da Computação
 - 💻 3 anos de experiência como Frontend Developer
 - 📱 1 ano de experiência com testes de software
-- 🔎 Atualmente focada em Next.js, TypeScript e desenvolvimento de sistemas web
+- 🔎 Atualmente focada em automação de testes 
 - 🎯 Buscando sempre aprender e me aprimorar em novas tecnologias
   
 <br>
