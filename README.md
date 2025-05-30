@@ -1,4 +1,4 @@
-### Desenvolvedora Front-end | Especialista em Testes
+### QA Engineer | Software Testing
 ##
 
 ### Sobre mim:
